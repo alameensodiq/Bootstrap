@@ -1,0 +1,18 @@
+body{
+    background:url(https://cdn.pixabay.com/photo/2016/03/30/21/59/coffee-beans-1291656_960_720.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.hero{ 
+    color:#fff;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Dela Gothic One', cursive;
+     }
+.tunde{
+    height: 100px;
+    width:200px;
+    justify-content: center;
+    }
